@@ -1,2 +1,3 @@
 # terraform-aws-vpc
-tfe module test
+
+Create a VPC with private and public subnets on N availability zones.
